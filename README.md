@@ -111,4 +111,4 @@ Proyecto en desarrollo activo. Versión inicial funcional con las característic
 
 ## Autor
 
-Mateo9804 - [GitHub](https://github.com/Mateo9804)
+Jose Maria Mira Esteban
